@@ -53,7 +53,7 @@ Weight (kg)
 
 As calorie intake increases, weight also increases.
 
-This suggests that Linear Regression may be an appropriate model.
+This suggests that Linear Regression could be an appropriate model.
 
 ---
 
